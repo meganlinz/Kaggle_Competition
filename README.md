@@ -13,8 +13,8 @@ Kaggle is an AirBnB for Data Scientists – this is where they spend their night
 - Python
 
 ## Machine learning models including(TBC)
-*Sentiment Analysis
-*Light GBM
+* Sentiment Analysis
+* Light GBM
 
 
 ## For more information: 
