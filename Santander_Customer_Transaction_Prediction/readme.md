@@ -1,4 +1,4 @@
-## Competition Type
+# Competition Type
 * Santander Customer Transaction Prediction is a Featured Prediction Competition held by Banco Santander (https://www.kaggle.com/santander)
 
 ## Competition Introduction 
@@ -8,7 +8,7 @@ Our data science team is continually challenging our machine learning algorithms
 
 In this challenge, we invite Kagglers to help us identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. The data provided for this competition has the same structure as the real data we have available to solve this problem.
 
-# Data Description 
+## Data Description 
 https://www.kaggle.com/c/santander-customer-transaction-prediction/data
 
 The data include three files: 
@@ -16,5 +16,5 @@ The data include three files:
 - Test data(200 var * 200,000 rows)
 - Sample submission(20,000 IDs * target) 
 
-# Evaluation 
+## Evaluation 
 * Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
