@@ -37,4 +37,4 @@ analysis <- score.sentiment(job$Message, pos, neg)
 
 job$score <- analysis$score
 
-write.csv(job, file = "FrendFeedback.csv")
+write.csv(job, file = "FrendFeedback.csv") 
