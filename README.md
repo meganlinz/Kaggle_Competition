@@ -9,8 +9,8 @@ Kaggle is an AirBnB for Data Scientists – this is where they spend their night
 - Jobs board
 
 ## Recommended running platform 
-> RStudio
-> Python
+- RStudio
+- Python
 
 * For more information: 
 What is Kaggle, Why I Participate, What is the Impact? - https://www.kaggle.com/getting-started/44916
