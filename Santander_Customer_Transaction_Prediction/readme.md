@@ -18,3 +18,6 @@ The data include three files:
 
 ## Evaluation 
 * Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
+
+## Recommend Running Platform
+> Python 
