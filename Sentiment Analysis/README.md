@@ -12,7 +12,7 @@
 - Negative
 - Very negative
 
-## Recommend running platform
+## Recommended running platform
 > RStudio
 
 ## Team
