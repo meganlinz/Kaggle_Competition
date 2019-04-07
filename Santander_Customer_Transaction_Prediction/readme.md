@@ -12,8 +12,8 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 https://www.kaggle.com/c/santander-customer-transaction-prediction/data
 
 The data include three file: 
-- Train data(200 var * 200 rows); 
-- Test data(200 var * 200 rows);
+- Train data(200 var * 200 rows) 
+- Test data(200 var * 200 rows)
 - Sample submission(20,000 IDs * target) 
 
 # Evaluation 
