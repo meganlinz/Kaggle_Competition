@@ -1,7 +1,7 @@
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 import os
-print(os.listdir("/Users/meganli/Downloads/"))
+print(os.listdir("/Users/Downloads/"))
 from sklearn.model_selection import KFold, StratifiedKFold
 from sklearn.metrics import roc_auc_score
 import lightgbm as lgb
@@ -10,8 +10,8 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 warnings.filterwarnings('ignore')
 
-train_df = pd.read_csv('/Users/meganli/Downloads/train.csv')
-test_df = pd.read_csv('/Users/meganli/Downloads//test.csv')
+train_df = pd.read_csv('/Users/train.csv')
+test_df = pd.read_csv('/Users/test.csv')
 random_state = 42
 np.random.seed(random_state)
 
