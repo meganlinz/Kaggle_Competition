@@ -12,6 +12,9 @@
 - Negative
 - Very negative
 
+## Recommend running platform
+> RStudio
+
 ## Team
 
 > Lulu Zheng & Hurin 
