@@ -12,5 +12,10 @@ Kaggle is an AirBnB for Data Scientists – this is where they spend their night
 - RStudio
 - Python
 
+## Machine learning models including(TBC)
+*Sentiment Analysis
+*Light GBM
+
+
 ## For more information: 
 What is Kaggle, Why I Participate, What is the Impact? - https://www.kaggle.com/getting-started/44916
