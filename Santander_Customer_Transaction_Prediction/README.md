@@ -22,5 +22,5 @@ The data include three files:
 ## Recommended running platform
 > Python 
 
-## Best team results: 
+## Best team result 
 > 0.899
